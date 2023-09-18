@@ -1,9 +1,9 @@
 ---
-title: "Untitled"
+title: "Coming soon ..."
 publishedAt: 2023-05-24
-description: "Lorem ipsum dolor sit amet consectetur et ultrices blandit neque ege"
-slug: "untitled"
+description: "Nothing here ... yet"
+slug: "coming-soon"
 isPublish: true
 ---
 
-## Hello World
+## Coming soon
