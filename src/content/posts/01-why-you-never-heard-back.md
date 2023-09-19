@@ -1,12 +1,10 @@
 ---
-title: "Why you never hear back from recruiters?"
+title: "Why you sometimes don't hear back from recruiters?"
 publishedAt: 2020-07-04
 description: ""
-slug: "why-you-never-heard-back-from-recruiters"
+slug: "why-you-dont-heard-back-from-recruiters"
 isPublish: true
 ---
-
-# Why you sometimes don't hear back from recruiters?
 
 It’s always frustrating when you put in blood, sweat, and tears into the process of hunting for your dream job only to be faced with the harsh reality of either never hearing back from companies, or getting the dreaded rejection email template.
 
