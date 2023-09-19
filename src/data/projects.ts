@@ -8,17 +8,17 @@ export type Project = {
 const projects: Project[] = [
   {
     title: "Gemography",
-    techs: ["React", "Express", "GraphQL"],
+    techs: ["A talent network for startups to hire remote engineers."],
     link: "https://gemography.com",
   },
   {
     title: "Startup Patterns",
-    techs: ["iOS SDK", "Swift", "Mixpanel", "Sketch", "Express.js"],
+    techs: ["Bite-sized startup lessons for busy founders."],
     link: "https://www.producthunt.com/products/startup-patterns",
   },
   {
-    title: "Hillo",
-    techs: ["iOS SDK", "Objective-C", "Mixpanel", "Sketch"],
+    title: "Hillo for Trello",
+    techs: ["Board activity tracking for Trello."],
     link: "https://www.producthunt.com/products/hillo",
   },
 ];
