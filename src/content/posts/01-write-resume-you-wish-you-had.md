@@ -1,6 +1,6 @@
 ---
 title: "Write the resume you wish you had"
-publishedAt: 2021-02-19
+publishedAt: 2020-02-19
 description: ""
 slug: "write-resume-you-wish-you-had"
 isPublish: true
