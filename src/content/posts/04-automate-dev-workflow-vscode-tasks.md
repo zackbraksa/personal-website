@@ -6,8 +6,6 @@ slug: "automating-dev-workflow-vscode-tasks"
 isPublish: true
 ---
 
-# Automating your dev workflow with VS Code tasks
-
 If, like me, you are working on multiple full-stack web projects, you probably find yourself constantly switching between VS Code workspaces. Each time you launch a workspace, you have to run multiple commands to get your different builds up and running.
 
 While tmux and tmuxinator is a great tool to automate some of this repetitive work, you may prefer to use what is already built into VS Code.
