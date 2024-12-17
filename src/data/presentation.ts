@@ -16,7 +16,7 @@ const presentation: Presentation = {
   title: "Hi, I’m Zack 👋",
   // profile: "/profile.webp",
   description:
-    "I've worn many hats – founder, engineering manager, product leader, growth strategist – all fueled by my love for learning and problem-solving. I've strategized, built, coded, and mentored, always aiming for growth.",
+    "Ex-founder and product engineer, I’ve built products that earned over 1000 upvotes on Product Hunt and scaled a recruiting platform to 100K+ developers across Africa and LATAM.",
   socials: [
     {
       label: "X",
