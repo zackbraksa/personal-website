@@ -8,30 +8,29 @@ export type Project = {
 const projects: Project[] = [
   {
     title: "Gemography",
-    techs: ["A talent network for startups to hire remote engineers."],
+    techs: ["Recruiting platform to connect startups with remote engineers."],
     link: "https://gemography.com",
   },
   {
     title: "Startup Patterns",
-    techs: ["Bite-sized startup lessons for busy founders."],
+    techs: ["iOS app to receive bite-sized startup lessons."],
     link: "https://www.producthunt.com/products/startup-patterns#startup-patterns",
   },
   {
     title: "Hillo for Trello",
-    techs: ["Board activity tracking for Trello."],
+    techs: ["iOS app to track Trello board activity."],
     link: "https://www.producthunt.com/products/hillo#hillo",
   },
   {
     title: "Hidden Founders",
-    techs: ["Build your MVP on a bootstrap-friendly payment plan."],
+    techs: ["Startup studio to help non-tech founders build their MVP."],
     link: "https://www.producthunt.com/products/hidden-founders?comment=57857#hidden-founders",
   },
   {
     title: "Qudos",
-    techs: ["Product Hunt for dev tool"],
-    link: "https://www.producthunt.com/products/qudos#qudos"
-  }
-
+    techs: ["The Product Hunt for dev tools"],
+    link: "https://www.producthunt.com/products/qudos#qudos",
+  },
 ];
 
 export default projects;
