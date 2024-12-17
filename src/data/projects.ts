@@ -15,7 +15,9 @@ const projects: Project[] = [
   },
   {
     title: "Gemography",
-    techs: ["Recruiting platform to connect startups with remote engineers."],
+    techs: [
+      "Recruiting platform to connect startups with remote softwareengineers.",
+    ],
     link: "https://gemography.com",
   },
   {
@@ -25,12 +27,12 @@ const projects: Project[] = [
   },
   {
     title: "Hillo for Trello",
-    techs: ["iOS app to track Trello board activity."],
+    techs: ["iOS app to track Trello board activity & get notified."],
     link: "https://www.producthunt.com/products/hillo#hillo",
   },
   {
     title: "Hidden Founders",
-    techs: ["Startup studio to help non-tech founders build their MVP."],
+    techs: ["Startup studio to help non-tech founders build their MVPs."],
     link: "https://www.producthunt.com/products/hidden-founders?comment=57857#hidden-founders",
   },
   {
