@@ -16,7 +16,7 @@ const presentation: Presentation = {
   title: "Hi, I’m Zack 👋",
   // profile: "/profile.webp",
   description:
-    "*Product engineer 👨‍💻* and *ex-founder*, I've built products that earned over 1,000 upvotes on Product Hunt 🚀 and scaled a recruiting platform to serve over 100,000 developers across Africa and LATAM 🌎.",
+    "*Product engineer 👨‍💻* and *ex-founder*, I've built products that earned over *thousands of upvotes* on Product Hunt and scaled a recruiting platform to serve *100,000+ developers* across two continents 🌍🌎.",
   socials: [
     {
       label: "Linkedin",
