@@ -7,6 +7,13 @@ export type Project = {
 
 const projects: Project[] = [
   {
+    title: "Voxgig",
+    techs: [
+      "Software consultancy & SaaS company, maintaining Seneca.js & building DevRel tools",
+    ],
+    link: "https://voxgig.com",
+  },
+  {
     title: "Gemography",
     techs: ["Recruiting platform to connect startups with remote engineers."],
     link: "https://gemography.com",
