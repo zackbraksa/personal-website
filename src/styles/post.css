@@ -2,8 +2,16 @@
   @apply leading-7;
 }
 
+.post header p {
+  @apply italic text-slate-600;
+}
+
 .post code {
   @apply rounded-sm bg-neutral-800 px-1 py-[2px] text-orange-500;
+}
+
+.post h1 {
+  @apply mt-8 text-3xl text-slate-400;
 }
 
 .post h2 {
