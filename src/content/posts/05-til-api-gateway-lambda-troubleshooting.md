@@ -1,7 +1,7 @@
 ---
-title: "TIL: Troubleshooting API Gateway and Lambda issues"
+title: "Troubleshooting API Gateway and Lambda issues"
 publishedAt: 2024-12-17
-description: "How to troubleshoot API Gateway and Lambda issues"
+description: ""
 slug: "til-api-gateway-lambda-troubleshooting"
 isPublish: true
 ---
