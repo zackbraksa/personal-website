@@ -9,7 +9,7 @@ const projects: Project[] = [
   {
     title: "Voxgig",
     techs: [
-      "Software consultancy & SaaS company, maintaining Seneca.js & building DevRel tools",
+      "Software consultancy & SaaS company, maintaining Seneca.js & building DevRel tools.",
     ],
     link: "https://voxgig.com",
   },
@@ -35,7 +35,7 @@ const projects: Project[] = [
   },
   {
     title: "Qudos",
-    techs: ["The Product Hunt for dev tools"],
+    techs: ["The Product Hunt for dev tools."],
     link: "https://www.producthunt.com/products/qudos#qudos",
   },
 ];
